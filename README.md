@@ -11,16 +11,12 @@ To analyze biomarker data and identify associations with disease outcomes using 
 - Patient survival data
 - Gene expression data
 
-## Planned Methods
+## Methods
 - Data Preprocessing
 - Exploratory Data Analysis
 - Random Sampling Techniques
 - Dimensionality Reduction
 - Survival Analysis
-
-## Current Progress
-- Data cleaning
-- Initial exploratory analysis
 
 ## Tools
 - R
